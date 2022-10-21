@@ -1,4 +1,11 @@
 
 # Infectious Disease Informatics {#infectious-dis}
 
-Contents to be added.
+**PBL 20 Oct (Tommy Lam and Kathy Leung)**
+<u>Wave 3 and Wave 4 COVID-19 in Hong Kong - phylogenetic analysis</u>
+Scenario
+Wave 3 outbreak in Hong Kong was eventually controlled with painful strict control measures including banning on public gatherings with more than two persons. While there was a short peace in mid-October 2020, another surge recognized as Wave 4 undertook with the identification of super-spreading clusters. This broke the record of the longest period of persistent reports of local cases. While Wave 4 was spreading through December, in the Christmas UK strikingly reported the emergence of a new SARS-CoV-2 variant – named as Alpha (B.1.1.7) later, with a much higher transmissibility than the original circulating virus. Worries have been around the potential introduction and circulation of Alpha variant in Hong Kong. 
+
+Please refer to the worksheets in Moodle for the questions.
+
+R script for building the Neighbour-joining tree is available below:
